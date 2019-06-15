@@ -64,4 +64,10 @@ export const Actions = styled.div`
     height: 20px;
     margin-right: 10px;
   }
+
+  button {
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+  }
 `;
